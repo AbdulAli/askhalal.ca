@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>categories on Halal Food Guide from Authentic Scholars</title>
+    <link>https://askhalal.ca/categories/categories/</link>
+    <description>Recent content in categories on Halal Food Guide from Authentic Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://askhalal.ca/categories/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here are some awesome facts that you must know</title>
+      <link>https://askhalal.ca/restaurants/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/restaurants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Halal Food Guide from Authentic Scholars</title>
+    <link>https://askhalal.ca/categories/</link>
+    <description>Recent content in Categories on Halal Food Guide from Authentic Scholars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://askhalal.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General</title>
+      <link>https://askhalal.ca/categories/general/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ingredients</title>
+      <link>https://askhalal.ca/categories/ingredients/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/categories/ingredients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>https://askhalal.ca/categories/products/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/categories/products/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restaurants</title>
+      <link>https://askhalal.ca/categories/restaurants/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/categories/restaurants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://askhalal.ca/categories/about-us/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/categories/about-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>categories</title>
+      <link>https://askhalal.ca/categories/categories/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/categories/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suppliers</title>
+      <link>https://askhalal.ca/categories/suppliers/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://askhalal.ca/categories/suppliers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
